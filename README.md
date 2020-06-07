@@ -2,12 +2,12 @@
 ### SUMMARY
 | VERSION     | Number of Characters | Number of Classes | Data                 | Contained characters         |
 |-------------|----------------------|-------------------|----------------------|------------------------------|
-| Version I   | 156000               | 78                | Original + Augmented | English, Hungariand, Turkish |
+| Version I   | 156000               | 78                | Original + Augmented | English, Hungarian, Turkish |
 | Version II  | 24000                | 12                | Original + Augmented | Turkish special              |
 | Version III | 36000                | 18                | Original + Augmented | Hungarian special            |
 | Version IV  | 104000               | 52                | Original + Augmented | English                      |
-| Version V   | 156000               | 55                | Original + Augmented | English, Hungariand, Turkish |
-| Version VI  | 78000                | 78                | Original             | English, Hungariand, Turkish |
+| Version V   | 156000               | 55                | Original + Augmented | English, Hungarian, Turkish |
+| Version VI  | 78000                | 78                | Original             | English, Hungarian, Turkish |
 ### VERSIONS
 **Version I**: This version represents the entire database. It includes all the 28x28 pixel binary characters from the three alphabets together forming a balanced dataset with 156000 characters belonging to 78 classes.
 
