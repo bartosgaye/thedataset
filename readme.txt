@@ -2,14 +2,14 @@ THE DATASET
 # SUMMARY
 VERSION		Number of Characters	Number of Classes	Data			Contained characters
 --------------------------------------------------------------------------------------------------------------------
-Version I	156000			78			Original + Augmented	English, Hungariand, Turkish
+Version I	156000			78			Original + Augmented	English, Hungarian, Turkish
 Version II	24000			12			Original + Augmented	Turkish special
 Version III	36000			18			Original + Augmented	Hungarian special
 Version IV	104000			52			Original + Augmented	English
-Version V	156000			55			Original + Augmented	English, Hungariand, Turkish
-Version VI	78000			78			Original		English, Hungariand, Turkish
+Version V	156000			55			Original + Augmented	English, Hungarian, Turkish
+Version VI	78000			78			Original		English, Hungarian, Turkish
 # VERSIONS
-Version I: This version represents the entire database. It includes all the 28x28 pixel binary characters from the three alphabets together forming a balanced dataset with 156000 characters belonging to 78 classes.
+Version I: This version represents the entire dataset. It includes all the 28x28 pixel binary characters from the three alphabets together forming a balanced dataset with 156000 characters belonging to 78 classes.
 Version II: It consists of merely 12 Turkish special characters (6 upper-case and 6 lower-case). 2000 samples of each character can be found in the Version II forming a 24000-character dataset.
 Version III: Similar to the Version II, this includes 18 Hungarian special characters only (9 lower-case and 9 upper-case) forming a 36000-character dataset.
 Version IV: The fourth version includes 2000 samples of 52 English characters (26 upper-case and 26 lower-case). 
