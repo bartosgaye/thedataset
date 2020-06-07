@@ -9,7 +9,7 @@
 | Version V   | 156000               | 55                | Original + Augmented | English, Hungarian, Turkish |
 | Version VI  | 78000                | 78                | Original             | English, Hungarian, Turkish |
 ### VERSIONS
-**Version I**: This version represents the entire database. It includes all the 28x28 pixel binary characters from the three alphabets together forming a balanced dataset with 156000 characters belonging to 78 classes.
+**Version I**: This version represents the entire dataset. It includes all the 28x28 pixel binary characters from the three alphabets together forming a balanced dataset with 156000 characters belonging to 78 classes.
 
 **Version II**: It consists of merely 12 Turkish special characters (6 upper-case and 6 lower-case). 2000 samples of each character can be found in the Version II forming a 24000-character dataset.
 
