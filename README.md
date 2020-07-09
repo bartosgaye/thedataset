@@ -79,4 +79,4 @@ This representation enables us to merge English letters with Hungarian special C
 # How to cite
 Please cite the following paper when using or referencing the dataset:
 
-G. Ediboğlu Bartos, Y. Hoscan, A. Kauer, and É. Hajnal, “A Multilingual Handwritten Character Dataset: T-H-E Dataset,” Acta Polytech. Hungarica, 2020.(under acceptance)
+G. Ediboğlu Bartos, Y. Hoscan, A. Kauer, and É. Hajnal, “A Multilingual Handwritten Character Dataset: T-H-E Dataset,” Acta Polytechnica Hungarica, 2020.(under acceptance)
