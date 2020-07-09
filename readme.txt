@@ -40,7 +40,7 @@ r-18	ő-37	R-57	Ú-77
 s-19	ú-38	S-58	Ű-78
 	ű-39	T-59	
 
-# MERGED Classes
+# MERGED Class Labels
 a	1	l	12	w-W	23	é	34	G	45
 b	2	m-M	13	x-X	24	í-Í	35	H	46
 c-C	3	n	14	y-Y	25	ó-Ó	36	L	47
