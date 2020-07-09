@@ -1,4 +1,5 @@
-THE DATASET
+T-H-E Dataset
+This dataset includes handwritten Turkish, Hungarian and English characters collected from 200 participants. 78 different letters are represented in 156000 binary characters including both the upper and lower-case versions in T-H-E Dataset (Turkish-Hungarian-English). It can be downloaded in six different versions enabling users to combine the different alphabets for different recognition purposes. Different versions are explained below. For further details, see the article at the bottom of the page.
 # SUMMARY
 VERSION		Number of Characters	Number of Classes	Data			Contained characters
 --------------------------------------------------------------------------------------------------------------------
